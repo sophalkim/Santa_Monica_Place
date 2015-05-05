@@ -1,0 +1,10 @@
+.container-fluid {
+    background-image: url("../images/girl_background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+}
+
+.jumbotron {
+    background: rgba(225, 225, 225, 0.25);
+}
