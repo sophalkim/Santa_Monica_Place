@@ -25,10 +25,13 @@
     background-color: grey;
     padding: 0;
     margin: 0;
-    height: 50px;
+    height: 150px;
+    text-align: center;
 }
 
 .slider {
     height: 500px;
     width: 100%;
+    background-color: whitesmoke;
+    background: rgba(225, 225, 225, 0.75);
 }
