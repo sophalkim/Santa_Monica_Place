@@ -18,6 +18,21 @@
     font-family: fantasy;
     font-size: 3em;
 }
+
+.store-hours {
+    position: absolute;
+    top: 5px;
+    left: 65%;
+    width: 75px;
+    height: 75px;
+    background-color: transparent;
+    border: none;
+}
+
+/*.store-hours:hover {*/
+    /*background-color: grey;*/
+/*}*/
+
 /* Making jumbotron transparent*/
 .jumbotron {
     background: rgba(225, 225, 225, 0.25);
