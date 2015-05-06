@@ -13,6 +13,11 @@
     background: -webkit-linear-gradient(top, rgba(225, 225, 225, 1), rgba(255, 255, 255, 0));
     border: none;
 }
+
+.navbar-brand {
+    font-family: fantasy;
+    font-size: 3em;
+}
 /* Making jumbotron transparent*/
 .jumbotron {
     background: rgba(225, 225, 225, 0.25);
